@@ -26,7 +26,7 @@ Muse Meets Machine is where I document that shift by building inside the tools m
 
 ## Selected builds
 
-### AI Operating System / Claude OS
+### AI Workflow System / Claude OS
 
 A private personal workflow system connecting Claude projects, Notion, Google Calendar, Gmail, Canva, and structured project contexts into one adaptive workflow system.
 
