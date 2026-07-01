@@ -1,6 +1,6 @@
 # Muse Meets Machine
 
-Muse Meets Machine is a public dev log and project index exploring how AI tools reshape communications practice, human voice, embodied communication, context engineering, and narrative infrastructure.
+Public dev log and project index exploring how AI tools reshape communications practice, human voice, embodied communication, context engineering, and narrative infrastructure.
 
 ## What this is
 
