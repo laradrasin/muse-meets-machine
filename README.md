@@ -30,7 +30,7 @@ Muse Meets Machine is where I document that shift by building inside the tools m
 
 A private personal workflow system connecting Claude projects, Notion, Google Calendar, Gmail, Canva, and structured project contexts into one adaptive workflow system.
 
-The working repositories are private because they contain personal workflow architecture, but this dev log documents the system design, communication patterns, and lessons learned.
+The working systems are private because they contain personal workflow architecture, but this dev log documents the system design, communication patterns, and lessons learned.
 
 ### Coding Curriculum + Live Deployed Tools
 
