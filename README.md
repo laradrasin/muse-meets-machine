@@ -2,6 +2,12 @@
 
 Public dev log and project index exploring how AI tools reshape communications practice, human voice, embodied communication, context engineering, and narrative infrastructure.
 
+## Start here
+
+- [Project Index](project-index.md) — selected builds, what they are, and what each one explores.
+- [Dev Log 001: Building Inside AI Tools](dev-log-001-building-inside-ai-tools.md) — what I’m learning by working inside GitHub, AI coding tools, documentation, and deployed systems.
+- [Voice Calibration Methodology](voice-calibration-methodology.md) — a method for preserving human voice and editorial judgment in AI-assisted writing workflows.
+
 ## What this is
 
 Muse Meets Machine is a working notebook for the place where communications strategy, AI tools, software-building workflows, and human judgment meet.
