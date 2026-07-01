@@ -34,7 +34,7 @@ That is communication strategy, but it does not always look like copywriting.
 
 Using GitHub has changed how I think about public proof-of-work.
 
-I am not using it here to pretend to be a software engineer. I am using it because versioning, documentation, repositories, deployment, and public project structure are now part of the environment in which communication work increasingly happens.
+I am not presenting this as a software engineering portfolio. I am using it because versioning, documentation, repositories, deployment, and public project structure are now part of the environment in which communication work increasingly happens.
 
 For someone coming from brand narrative and editorial strategy, that shift is useful.
 
