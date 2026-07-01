@@ -12,14 +12,11 @@ This repository is not meant to present every working file or private system. It
 
 ## Why I’m building this
 
-As AI tools become more embedded in creative, technical, and organizational work, communication is changing shape.
+I’m interested in what changes when communications work stops being only about finished language and starts involving systems: prompts, repositories, documentation, workflows, model behavior, deployment, and iteration.
 
-Prompts become interfaces.  
-Context becomes infrastructure.  
-Documentation becomes memory.  
-Voice becomes something that has to be designed, protected, and calibrated across systems.
+AI tools are not just making writing faster. They are changing where communication work happens, who participates in it, and what has to be made explicit for a system to carry context forward.
 
-Muse Meets Machine is where I document what I’m learning by working inside those systems rather than only writing about them from the outside.
+Muse Meets Machine is where I document that shift by building inside the tools myself.
 
 ## Selected builds
 
