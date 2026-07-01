@@ -54,6 +54,24 @@ The point is not to make AI sound more human in the abstract. The point is to ma
 - Agent-ready editorial infrastructure
 - How to keep the human in the loop in a meaningful way
 
+## Creative Qualitative Analysis
+
+**Status:** Emerging public methodology; case notes will be added selectively.
+
+A method for using AI-assisted coding, timeline-building, and pattern detection to analyze messy qualitative material: interviews, archival research, biographical timelines, historical documents, brand language, founder narratives, and other high-context source material.
+
+The approach combines close reading with structured analysis. AI helps extract entities, dates, themes, tensions, repetitions, and shifts over time; human judgment determines what the patterns mean and what should not be flattened into data.
+
+Where useful, qualitative patterns can be paired with lightweight quantitative overlays: frequency counts, timeline density, emotional or narrative valence, theme clustering, or before/after comparisons.
+
+### What it explores
+
+- Qualitative coding as creative and strategic infrastructure
+- AI-assisted pattern detection across messy source material
+- Quant overlays on interpretive data
+- Timelines as narrative analysis tools
+- Human judgment as the layer that gives data meaning
+
 ## Coding Curriculum + Live Deployed Tools
 
 **Status:** Learning/building track; links withheld unless individual tools are ready to share publicly.
