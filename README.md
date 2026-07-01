@@ -36,7 +36,7 @@ The working systems are private because they contain personal workflow architect
 
 A structured 8-week AI and coding curriculum with live tools including a crash-course reference site, a vocabulary trainer, and a modular curriculum builder.
 
-These projects are version-controlled on GitHub and deployed through Netlify.
+These projects are part of my hands-on learning track with GitHub, Netlify, documentation, and deployed web workflows.
 
 ### Voice Calibration Methodology
 
@@ -53,6 +53,6 @@ The method starts by having a writer revise AI-generated drafts, then analyzes t
 
 ## What’s public vs. private
 
-Some working repositories are private because they contain personal workflow architecture, unpublished writing systems, or client-adjacent methodology.
+Some working repositories are private because they contain personal workflow architecture, unpublished writing systems, or proprietary methodology.
 
 This repository documents the public-facing architecture, process notes, and lessons from those builds.
