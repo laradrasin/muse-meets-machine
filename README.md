@@ -7,6 +7,7 @@ Public dev log and project index exploring how AI tools reshape communications p
 - [Project Index](project-index.md) — selected builds, what they are, and what each one explores.
 - [Dev Log 001: Building Inside AI Tools](dev-log-001-building-inside-ai-tools.md) — what I’m learning by working inside GitHub, AI coding tools, documentation, and deployed systems.
 - [Voice Calibration Methodology](voice-calibration-methodology.md) — a method for preserving human voice and editorial judgment in AI-assisted writing workflows.
+- [Creative Qualitative Analysis](creative-qualitative-analysis.md) — a method for using AI-assisted coding, pattern detection, and lightweight quantitative overlays to analyze messy qualitative material.
 
 ## What this is
 
@@ -44,15 +45,22 @@ A repeatable process for preserving authentic human voice in AI-assisted writing
 
 The method starts by having a writer revise AI-generated drafts, then analyzes the difference between the draft and the human revision to build a reusable voice reference.
 
+### Creative Qualitative Analysis
+
+A method for using AI-assisted coding, pattern detection, and lightweight quantitative overlays to analyze messy qualitative material without pretending it is cleaner than it is.
+
+This work connects graduate training in social science, qualitative coding, narrative analysis, archival research, and communications strategy.
+
 ## Current questions
 
 - How does communication strategy change when context becomes part of the product architecture?
 - What does “voice” mean when writing happens across humans, models, prompts, documents, and workflows?
 - How should non-technical experts learn to build with AI tools without pretending to be software engineers?
 - What parts of creative and strategic judgment become more valuable as tools automate more execution?
+- How can AI help structure qualitative material without stripping away ambiguity, context, or human judgment?
 
 ## What’s public vs. private
 
-Some working repositories are private because they contain personal workflow architecture, unpublished writing systems, or proprietary methodology.
+Some working systems are private because they contain personal workflow architecture, unpublished writing systems, or proprietary methodology.
 
 This repository documents the public-facing architecture, process notes, and lessons from those builds.
