@@ -59,8 +59,20 @@ This work connects graduate training in social science, qualitative coding, narr
 - What parts of creative and strategic judgment become more valuable as tools automate more execution?
 - How can AI help structure qualitative material without stripping away ambiguity, context, or human judgment?
 
-## What’s public vs. private
+## Public vs. Private
 
 Some working systems are private because they contain personal workflow architecture, unpublished writing systems, or proprietary methodology.
 
 This repository documents the public-facing architecture, process notes, and lessons from those builds.
+
+## AI Diligence Statement
+
+The ideas, concepts, framing, and editorial judgment behind this project are my own. I used AI tools as a development and synthesis aid to help translate those ideas into usable 
+materials, including project structure, summaries, documentation, language refinement, and implementation support.
+
+AI did not determine the project’s point of view, conclusions, or creative direction. I provided the underlying ideas, context, source material, and standards for what the work 
+needed to say and do. All AI-assisted outputs were reviewed, revised, and curated by me.
+
+I take full responsibility for the final content, including its accuracy, coherence, and presentation. This statement is included to be transparent about the role AI played in 
+helping me build, organize, and summarize the materials in this repository.
+
